@@ -4,4 +4,4 @@
 
 Instituto de Computação - Universidade Federal de Alagoas.
 
-<a href="mailto:mffsp@ic.ufal.br">e-mail</a>
+<a href="mailto:mffsp@ic.ufal.br" target="_blank">e-mail</a>
